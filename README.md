@@ -8,7 +8,7 @@
 
 Додай джерело «Браузер».
 
-- Адреса: http://143.110.140.253:3000/overlay
+- Адреса: https://challenge-for-foggy.duckdns.org/overlay
 - Ширина: 1000
 - Висота: 700
 
